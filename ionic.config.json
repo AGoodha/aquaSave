@@ -1,0 +1,7 @@
+{
+  "name": "aquaSave",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
